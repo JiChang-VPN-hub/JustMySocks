@@ -39,6 +39,8 @@
 - 稳定运营：至今已有 7年 历史，服务稳定可靠，背靠搬瓦工大厂，不怕跑路。
 - 多地区/多线路：提供洛杉矶、香港、日本、伦敦等多个地区的套餐，每种套餐均对应不同的优化线路。
 
+<img width="773" height="164" alt="Just My Socks 支付宝" src="https://github.com/user-attachments/assets/41f28b4d-05b8-45e0-967b-8939b0828573" />
+
 
 
 
